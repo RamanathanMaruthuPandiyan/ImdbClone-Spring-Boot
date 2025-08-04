@@ -1,0 +1,20 @@
+# Spring Boot Template Project
+
+This is a base Spring Boot template project designed to be reused for creating multiple microservices or standalone applications with consistent configurations and structure.
+
+## 🚀 Features
+
+- Spring Boot (version 3.5.0)
+- Pre-configured folder structure
+- Global exception handling
+- Maven support (choose based on your setup)
+
+## 🛠️ Technologies Used
+
+- Java 17+
+- Spring Boot
+- Spring Web
+- Spring Data JPA
+- Spring Web Tools
+- PostgreSQL
+- Lombok

@@ -1,0 +1,17 @@
+# Ignore IDE files
+.idea/
+*.iml
+
+# Ignore build output
+/target/
+
+# Ignore logs
+*.log
+
+# Ignore application secrets
+application.properties
+application-dev.properties
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
