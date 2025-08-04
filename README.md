@@ -59,7 +59,7 @@ This is an IMDb Clone Project built with **React (frontend)** and **Spring Boot 
 ![List all Persons](./Screenshots/Persons%20Listing.png)
 
 #### Add Persons
-![Add Persons](./Screenshots/Add%20persons.png)
+![Add Persons](./Screenshots/Add%20Persons.png)
 
 #### Persons Options Bar
 ![Persons Options Bar](./Screenshots/Persons%20Options%20Bar.png)
